@@ -13,4 +13,5 @@ read commit_message
 git commit -m "$commit_message"
 
 # Push the changes to GitHub
-git push origin main
+git push origin struktur_oppdatering
+
