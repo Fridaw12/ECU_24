@@ -120,9 +120,9 @@ volatile uint8_t acc;
 
 // Temperature
 
-volatile uint8_t temp;		// temperature reported from temperature module
-volatile uint8_t tempmax = 50;		//maximum temperature threshold before warning
-volatile uint8_t Temp_mode = 0;		// temp control mode
+// volatile uint8_t temp;		// temperature reported from temperature module
+// volatile uint8_t tempmax = 50;		//maximum temperature threshold before warning
+// volatile uint8_t Temp_mode = 0;		// temp control mode
 
 
 // APPS CAL
